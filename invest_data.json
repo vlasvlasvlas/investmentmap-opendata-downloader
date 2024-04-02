@@ -1,0 +1,65 @@
+[
+    {
+        "iso2": "PY",
+        "url_descarga_csv": "https://www.ejemplo.com/descarga/paraguay/datos.csv",
+        "nombre_archivo_csv": "datos_paraguay.csv",
+        "url_descarga_xlsx": "https://www.ejemplo.com/descarga/paraguay/diccionario.xlsx",
+        "nombre_archivo_xlsx": "diccionario_paraguay.xlsx"
+    },
+    {
+        "iso2": "AR",
+        "url_descarga_csv": "https://www.ejemplo.com/descarga/argentina/datos.csv",
+        "nombre_archivo_csv": "datos_argentina.csv",
+        "url_descarga_xlsx": "https://www.ejemplo.com/descarga/argentina/diccionario.xlsx",
+        "nombre_archivo_xlsx": "diccionario_argentina.xlsx"
+    },
+    {
+        "iso2": "JM",
+        "url_descarga_csv": "https://www.ejemplo.com/descarga/jamaica/datos.csv",
+        "nombre_archivo_csv": "datos_jamaica.csv",
+        "url_descarga_xlsx": "https://www.ejemplo.com/descarga/jamaica/diccionario.xlsx",
+        "nombre_archivo_xlsx": "diccionario_jamaica.xlsx"
+    },
+    {
+        "iso2": "DO",
+        "url_descarga_csv": "https://www.ejemplo.com/descarga/rep_dominicana/datos.csv",
+        "nombre_archivo_csv": "datos_rep_dominicana.csv",
+        "url_descarga_xlsx": "https://www.ejemplo.com/descarga/rep_dominicana/diccionario.xlsx",
+        "nombre_archivo_xlsx": "diccionario_rep_dominicana.xlsx"
+    },
+    {
+        "iso2": "PE",
+        "url_descarga_csv": "https://www.ejemplo.com/descarga/peru/datos.csv",
+        "nombre_archivo_csv": "datos_peru.csv",
+        "url_descarga_xlsx": "https://www.ejemplo.com/descarga/peru/diccionario.xlsx",
+        "nombre_archivo_xlsx": "diccionario_peru.xlsx"
+    },
+    {
+        "iso2": "CR",
+        "url_descarga_csv": "https://www.ejemplo.com/descarga/costa_rica/datos.csv",
+        "nombre_archivo_csv": "datos_costa_rica.csv",
+        "url_descarga_xlsx": "https://www.ejemplo.com/descarga/costa_rica/diccionario.xlsx",
+        "nombre_archivo_xlsx": "diccionario_costa_rica.xlsx"
+    },
+    {
+        "iso2": "CO",
+        "url_descarga_csv": "https://www.ejemplo.com/descarga/colombia/datos.csv",
+        "nombre_archivo_csv": "datos_colombia.csv",
+        "url_descarga_xlsx": "https://www.ejemplo.com/descarga/colombia/diccionario.xlsx",
+        "nombre_archivo_xlsx": "diccionario_colombia.xlsx"
+    },
+    {
+        "iso2": "HN",
+        "url_descarga_csv": "https://www.ejemplo.com/descarga/honduras/datos.csv",
+        "nombre_archivo_csv": "datos_honduras.csv",
+        "url_descarga_xlsx": "https://www.ejemplo.com/descarga/honduras/diccionario.xlsx",
+        "nombre_archivo_xlsx": "diccionario_honduras.xlsx"
+    },
+    {
+        "iso2": "PA",
+        "url_descarga_csv": "https://www.ejemplo.com/descarga/panama/datos.csv",
+        "nombre_archivo_csv": "datos_panama.csv",
+        "url_descarga_xlsx": "https://www.ejemplo.com/descarga/panama/diccionario.xlsx",
+        "nombre_archivo_xlsx": "diccionario_panama.xlsx"
+    }
+]
