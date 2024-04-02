@@ -18,19 +18,27 @@ El script Python incluido en este repositorio lee el archivo JSON y descarga los
 
 ¡Las contribuciones son bienvenidas! Si deseas colaborar en este proyecto, siéntete libre de enviar solicitudes de extracción con mejoras, correcciones de errores o nuevas características que consideres útiles.
 
+## Dependencias
+
+Asegúrate de tener instalada la biblioteca `requests` en tu entorno de Python. Puedes instalarla utilizando el siguiente comando:
+
+```
+pip install requests
+```
+
 ## Países Incluidos
 
 El script está configurado para trabajar con los siguientes países que forman parte de la iniciativa MapaInversiones del BID:
 
-- Paraguay
-- Argentina
-- Jamaica
-- República Dominicana
-- Perú
-- Costa Rica
-- Colombia
-- Honduras
-- Panamá
+- Paraguay (PY)
+- Argentina (AR)
+- Jamaica (JM)
+- República Dominicana (DO)
+- Perú (PE)
+- Costa Rica (CR)
+- Colombia (CO)
+- Honduras (HN)
+- Panamá (PA)
 
 ## Nota Importante
 
