@@ -28,7 +28,7 @@ pip install requests
 
 ## Países Incluidos
 
-El script está configurado para trabajar con los siguientes países que forman parte de la iniciativa MapaInversiones del BID:
+Este script está diseñado para interactuar con un archivo JSON (invest_data.json). Este archivo puede ser enriquecido con datasets abiertos provenientes de los países que participan en la iniciativa MapaInversiones del BID. Los países participantes son:
 
 - Paraguay (PY)
 - Argentina (AR)
@@ -39,6 +39,8 @@ El script está configurado para trabajar con los siguientes países que forman 
 - Colombia (CO)
 - Honduras (HN)
 - Panamá (PA)
+
+Por lo tanto, puedes agregar a invest_data.json cualquier dataset abierto relevante de estos países para que el script pueda procesarlo.
 
 ## Nota Importante
 
