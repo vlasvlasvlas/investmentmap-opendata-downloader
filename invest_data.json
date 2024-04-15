@@ -1,65 +1,53 @@
 [
     {
-        "iso2": "PY",
-        "url_descarga_csv": "https://www.ejemplo.com/descarga/paraguay/datos.csv",
-        "nombre_archivo_csv": "datos_paraguay.csv",
-        "url_descarga_xlsx": "https://www.ejemplo.com/descarga/paraguay/diccionario.xlsx",
-        "nombre_archivo_xlsx": "diccionario_paraguay.xlsx"
+        "iso2": "AR",
+        "url_descarga": "https://mapainversiones.obraspublicas.gob.ar/opendata/dataset_mop.csv",
+        "nombre_archivo": "obras.csv"
     },
     {
         "iso2": "AR",
-        "url_descarga_csv": "https://www.ejemplo.com/descarga/argentina/datos.csv",
-        "nombre_archivo_csv": "datos_argentina.csv",
-        "url_descarga_xlsx": "https://www.ejemplo.com/descarga/argentina/diccionario.xlsx",
-        "nombre_archivo_xlsx": "diccionario_argentina.xlsx"
+        "url_descarga": "https://mapainversiones.obraspublicas.gob.ar/opendata/dataset_proyectosmop.csv",
+        "nombre_archivo": "proyectos_de_obra.csv"
     },
     {
-        "iso2": "JM",
-        "url_descarga_csv": "https://www.ejemplo.com/descarga/jamaica/datos.csv",
-        "nombre_archivo_csv": "datos_jamaica.csv",
-        "url_descarga_xlsx": "https://www.ejemplo.com/descarga/jamaica/diccionario.xlsx",
-        "nombre_archivo_xlsx": "diccionario_jamaica.xlsx"
+        "iso2": "AR",
+        "url_descarga": "https://mapainversiones.obraspublicas.gob.ar/opendata/Dictionary/dataset_diccionario.csv",
+        "nombre_archivo": "diccionario_datos.csv"
     },
     {
-        "iso2": "DO",
-        "url_descarga_csv": "https://www.ejemplo.com/descarga/rep_dominicana/datos.csv",
-        "nombre_archivo_csv": "datos_rep_dominicana.csv",
-        "url_descarga_xlsx": "https://www.ejemplo.com/descarga/rep_dominicana/diccionario.xlsx",
-        "nombre_archivo_xlsx": "diccionario_rep_dominicana.xlsx"
-    },
+        "iso2": "AR",
+        "url_descarga": "https://mapainversiones.obraspublicas.gob.ar/opendata/dataset_geojson.csv",
+        "nombre_archivo": "gisdataset_geojson.csv"
+    },    
     {
-        "iso2": "PE",
-        "url_descarga_csv": "https://www.ejemplo.com/descarga/peru/datos.csv",
-        "nombre_archivo_csv": "datos_peru.csv",
-        "url_descarga_xlsx": "https://www.ejemplo.com/descarga/peru/diccionario.xlsx",
-        "nombre_archivo_xlsx": "diccionario_peru.xlsx"
-    },
-    {
-        "iso2": "CR",
-        "url_descarga_csv": "https://www.ejemplo.com/descarga/costa_rica/datos.csv",
-        "nombre_archivo_csv": "datos_costa_rica.csv",
-        "url_descarga_xlsx": "https://www.ejemplo.com/descarga/costa_rica/diccionario.xlsx",
-        "nombre_archivo_xlsx": "diccionario_costa_rica.xlsx"
-    },
-    {
-        "iso2": "CO",
-        "url_descarga_csv": "https://www.ejemplo.com/descarga/colombia/datos.csv",
-        "nombre_archivo_csv": "datos_colombia.csv",
-        "url_descarga_xlsx": "https://www.ejemplo.com/descarga/colombia/diccionario.xlsx",
-        "nombre_archivo_xlsx": "diccionario_colombia.xlsx"
+        "iso2": "PY",
+        "url_descarga": "https://www.contrataciones.gov.py/images/opendata-v3/final/ocds/2024/masivo.zip",
+        "nombre_archivo": "dncp_procesos_completos_2024.csv"
     },
     {
         "iso2": "HN",
-        "url_descarga_csv": "https://www.ejemplo.com/descarga/honduras/datos.csv",
-        "nombre_archivo_csv": "datos_honduras.csv",
-        "url_descarga_xlsx": "https://www.ejemplo.com/descarga/honduras/diccionario.xlsx",
-        "nombre_archivo_xlsx": "diccionario_honduras.xlsx"
+        "url_descarga": "https://www.sefin.gob.hn/odata/egames/202400.csv",
+        "nombre_archivo": "presupuesto_2024.csv"
+        
     },
     {
+        "iso2": "HN",
+        "url_descarga": "https://www.sefin.gob.hn/odata/egames/202300.csv",
+        "nombre_archivo": "presupuesto_2023.csv"
+    },  
+    {
+        "iso2": "HN",
+        "url_descarga": "https://hondurasinversiones.gob.hn/opendata/Diccionario%20de%20datos%20Honduras%20-%20Presupuesto.xlsx",
+        "nombre_archivo": "presupuesto_diccionario.xlsx"
+    },  
+    {
         "iso2": "PA",
-        "url_descarga_csv": "https://www.ejemplo.com/descarga/panama/datos.csv",
-        "nombre_archivo_csv": "datos_panama.csv",
-        "url_descarga_xlsx": "https://www.ejemplo.com/descarga/panama/diccionario.xlsx",
-        "nombre_archivo_xlsx": "diccionario_panama.xlsx"
+        "url_descarga": "https://gestiontransparentepanama.mef.gob.pa/opendata/presupuesto.csv",
+        "nombre_archivo": "presupuesto.csv"
+    },   
+    {
+        "iso2": "PA",
+        "url_descarga": "https://gestiontransparentepanama.mef.gob.pa/opendata/dataset_diccionario.csv",
+        "nombre_archivo": "presupuesto_diccionario.csv"
     }
 ]

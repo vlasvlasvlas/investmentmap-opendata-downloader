@@ -1,6 +1,6 @@
 # investmentmap-opendata-downloader
 
-Este repositorio facilita la descarga centralizada de datos abiertos de las plataformas InvestmentMap del BID.
+Este repositorio facilita la descarga centralizada de datos abiertos de las plataformas abiertas y públicas de InvestmentMap del BID.
 
 ## Acerca de MapaInversiones
 
@@ -46,6 +46,13 @@ Este proyecto se encuentra en desarrollo activo. Si encuentras algún problema o
 
 Para obtener más información sobre MapaInversiones, visita [este enlace](https://www.iadb.org/es/quienes-somos/tematicas/reforma-modernizacion-del-estado/mapainversiones).
 
+# Disclaimer y Licencia
+
+Este repositorio sirve exclusivamente como un recolector de datasets abiertos sobre las plataformas públicas y abiertas de MapaInversiones del Banco Interamericano de Desarrollo (BID). Su único objetivo es facilitar la descarga centralizada de estos datos para promover la transparencia y accesibilidad de la información pública.
+
+Este proyecto no tiene ningún otro objetivo más allá de este y no está asociado con ninguna actividad comercial o de lucro. No se hace responsable de cualquier uso indebido de los datos recolectados.
+
+Este repositorio está bajo una licencia MIT, lo que significa que puedes usar, copiar, modificar, fusionar, publicar, distribuir, sublicenciar y/o vender copias del software, siempre y cuando se reconozca adecuadamente la autoría del software original en todas las copias o partes sustanciales del software. Sin embargo, es importante recordar que este es un resumen y no reemplaza los términos legales de la licencia MIT. Para más detalles sobre la licencia, por favor consulta el archivo LICENSE en este repositorio..
 
 ---
 *Última actualización: Abril 2024*
